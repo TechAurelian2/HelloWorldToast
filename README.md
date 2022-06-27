@@ -46,8 +46,8 @@ To build and run the app, clone this project, open it as an existing project in 
 Thank you for contributing! Hello World Toast is designed to be as simple as possible, but you can still help with:
 
 * testing and reporting bugs
-* creating a nice Android app icon to replace the [current one](https://github.com/TechAurelian/HelloWorldToast/blob/primary/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+* creating a nice Android app icon to replace the [current one](https://github.com/TechAurelian/HelloWorldToast/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
 ## License
 
-Hello World Toast is released under the [MIT License](https://github.com/TechAurelian/HelloWorldToast/blob/primary/LICENSE).
+Hello World Toast is released under the [MIT License](https://github.com/TechAurelian/HelloWorldToast/blob/main/LICENSE).
